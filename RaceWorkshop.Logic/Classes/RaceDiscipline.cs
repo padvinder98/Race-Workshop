@@ -16,3 +16,4 @@ namespace RaceWorkshop.Logic.Classes
             Since = since;
         }
     }
+}
