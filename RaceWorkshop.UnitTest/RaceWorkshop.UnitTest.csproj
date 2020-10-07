@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RaceDisciplineContainerTest.cs" />
+    <Compile Include="RaceDisciplineTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\RaceWorkshop.Logic\RaceWorkshop.Logic.csproj">
